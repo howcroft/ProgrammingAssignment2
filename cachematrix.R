@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix() stores the matrix object
+## cacheSolve() ceates the inverse of objects created with makeCacheMatrix()
 
 ## This function has four sub-functions (get, set, setInverse, and getInverse)
 ## It receives a matrix as input, computes an inverse and stores it in cache.
